@@ -5,7 +5,7 @@
 ## Contributors:
 * Junji Wiener - GitHub: 8Jun
 * Aldo Peter - GitHub: TBD
-* Fairy Gandhi - GitHub:FairyGandhi
+* Fairy Gandhi - GitHub: FairyGandhi
 * Meredith Synnott - GitHub: meredithsynnott
 * Whitney Carter - GitHub: Carter-and
 
