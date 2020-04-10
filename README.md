@@ -28,6 +28,6 @@
 
 ## Code Preview:
 
-## [Link to Powerpoint Presentation]()
+## [Link to Powerpoint Presentation](https://docs.google.com/presentation/d/1M856902qevlkEjnDXwcTPwwivRSvBs7O22RpdGVNgZ4/edit#slide=id.p)
 ![alt text]()
 
