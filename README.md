@@ -4,7 +4,7 @@
 
 ## Contributors:
 * Junji Wiener - GitHub: 8Jun
-* Aldo Peter - GitHub: TBD
+* Aldo Peter - GitHub: Aldospy
 * Fairy Gandhi - GitHub: FairyGandhi
 * Meredith Synnott - GitHub: meredithsynnott
 * Whitney Carter - GitHub: Carter-and
@@ -13,7 +13,7 @@
 * The objective of this project is to put into action the big data technology (Hadoop, PySpark, AWS, S3) that we have learned about this semester to ingest a large data set, use basic statistics and analysis of the ingested data set, and display (using Jupyter notebook or other type of visualization) the data set. The application should also show horisontal scaling.
 
 ## Data Set:
-* TBD
+* CBC News Coronavirus/COVID-19 Articles (NLP)
 
 ## Overview:
 
