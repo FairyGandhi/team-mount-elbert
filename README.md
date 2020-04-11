@@ -25,6 +25,10 @@
 * Jupyter/ Googlecolab
 
 ## Project Goal:
+To understand how the main focus of CBC news articles has evolved during this COVID -19 affected time period by doing the following:
+  * Analyzing the trend with the word count of the articles.
+  * Analyzing the keywords of articles every month using the wordcloud.
+  * Building an Abstractive News summarizer with Seq2Seq (Sequence to Sequence Networks) Model (NLP).
 
 ## Code Preview:
 
