@@ -1,4 +1,5 @@
-# Unstructured and Distributed Data Spring 2020 Project
+# Unstructured and Distributed Data Modeling and Analysis
+## Spring 2020 Project
 
 ## Executive Summary:
 
