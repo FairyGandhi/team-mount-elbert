@@ -29,7 +29,8 @@ To understand how the main focus of CBC news articles has evolved during this CO
 Performance Requirements will be set under conditions to detect the words used the most and least in a news article. The Latent Semantic Analysis determines the similarity of meaning of words and set of words to each other. This will help us interpret what the most words and least words mean for the public and their understanding of COVID-19. 
 
 ## TIMELINE
-   * Design, Development, Test due April 25th.
-   * We will meet twice a week for the next two weeks.
+   * Requirement Phase due April 12th 2020.
+   * Design, Development, Test is due April 25th 2020.
+   * We will meet twice a week for the next two weeks to work on the project (data cleanup, building the model, etc.).
    * Deployment is due April 28th.
-   * Presentation due April 28th.
+   * Presentation is due April 28th.
