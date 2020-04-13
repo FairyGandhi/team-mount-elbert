@@ -1,4 +1,4 @@
-### Project Requirement Phase document has been uploaded under 'PROJECT-REQUIREMENT-PHASE' branch.
+### Project Requirement Phase report has been uploaded under 'PROJECT-REQUIREMENT-PHASE' branch.
 
 ## GLOSSARY
     Kaggle: https://www.kaggle.com/ryanxjhan/cbc-news-coronavirus-articles-march-26
