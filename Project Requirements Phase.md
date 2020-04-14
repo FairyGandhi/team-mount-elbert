@@ -9,6 +9,7 @@ For our project, we are using the Kaggle dataset on COVID-19 (as suggested by Pr
 
 ## Data Set: 
 * CBC News Coronavirus/COVID-19 Articles (NLP).
+* Johns Hopkins University Center for Systems Science and Engineering (CSSE) upstream repository on COVID-19 
 
 ## Languages and Tools used: 
 * Spark with Python (NumPy, Pandas, Matplotlib, Scikit-Learn), Hadoop, PySpark, Jupyter/ Googlecolab.
