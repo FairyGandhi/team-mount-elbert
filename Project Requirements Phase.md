@@ -2,6 +2,7 @@
 
 ## GLOSSARY
     Kaggle: https://www.kaggle.com/ryanxjhan/cbc-news-coronavirus-articles-march-26
+    COVID-19 data: https://github.com/datasets/covid-19
     Github: https://github.com/MSBX5420/team-mount-elbert                              
 
 ## INTRODUCTION
