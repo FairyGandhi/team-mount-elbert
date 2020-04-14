@@ -8,7 +8,7 @@
 ## INTRODUCTION
 For our project, we are using the Kaggle dataset on COVID-19 (as suggested by Professor Zhang). Our analysis will use Spark with Python, AWS Classroom, and Google Collab in order to examine the effects of COVID 19 in the news and how the media has covered this new pandemic. We plan on using Latent Semantic Analysis - an unsupervised machine learning model. We are currently brainstorming potential research questions independently and exploring the visualization tools necessary to strengthen our analysis.
 
-## Data Set: 
+## Data Sets: 
 * CBC News Coronavirus/COVID-19 Articles (NLP).
 * Johns Hopkins University Center for Systems Science and Engineering (CSSE) upstream repository on COVID-19 
 
