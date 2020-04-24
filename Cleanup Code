@@ -1,1 +1,4 @@
-Apache Spark is written in Scala programming language. To support Python with Spark, Apache Spark community released a tool, PySpark. Using PySpark, you can work with RDDs/Dataframes/Datasets in Python programming language also. A Dataset is a distributed collection of data. A DataFrame is a Dataset organized into named columns. It is conceptually equivalent to a table in a relational database or a data frame in R/Python, but with richer optimizations under the hood.
+Apache Spark is written in Scala programming language. To support Python with Spark, Apache Spark community released a tool, PySpark. 
+Using PySpark, you can work with RDDs/Dataframes/Datasets in Python programming language also. A Dataset is a distributed collection 
+of data. A DataFrame is a Dataset organized into named columns. It is conceptually equivalent to a table in a relational database or
+a data frame in R/Python, but with richer optimizations under the hood.
