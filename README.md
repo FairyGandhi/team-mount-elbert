@@ -1,5 +1,5 @@
-# Unstructured and Distributed Data Modeling and Analysis
-## Spring 2020 Project
+#                                          Unstructured and Distributed Data Modeling and Analysis
+##                                                           Spring 2020 Project
 
 ## Executive Summary:
 * For our project, we are using the Kaggle dataset on COVID-19 (as suggested by Professor Zhang). Our analysis will use Spark with Python, AWS Classroom, and Google Collab in order to examine the effects of COVID 19 in the news and how the media has covered this new pandemic.
