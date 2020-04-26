@@ -65,8 +65,11 @@ for columnName in allColNames2:
 
 ### Project Code Visuals:
 ![Word Frequency](/images/logo.png)
+
 ![Word Cloud](/images/logo.png)
+
 ![Polarity Histogram](/images/logo.png)
+
 ![Author Polarity Boxplot](/images/logo.png)
 
 ## [Link to Presentation](https://github.com/MSBX5420/team-mount-elbert/blob/master/Design%2C%20Development%2C%20and%20Test%20document.pdf)
