@@ -18,6 +18,7 @@
 
 ## Data Set:
 * CBC News Coronavirus/COVID-19 Articles (NLP)
+* https://www.kaggle.com/ryanxjhan/cbc-news-coronavirus-articles-march-26
 
 ## Overview:
 
