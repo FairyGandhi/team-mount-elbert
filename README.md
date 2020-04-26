@@ -22,11 +22,11 @@
 ### Overview:
 
 ### Languages and Tools used:
-* Python (NumPy, Pandas, Matplotlib, Scikit-Learn)
+* Python (NumPy, Pandas, Matplotlib, Seaborn, Wordcloud)
 * Hadoop
 * PySpark
 * AWS (S3, EMR)
-* Jupyter/ Googlecolab
+* Jupyter Notebook
 
 ### Tasks:
 To understand how the main focus of CBC news articles has evolved during this COVID -19 affected time period by doing the following:
@@ -34,10 +34,46 @@ To understand how the main focus of CBC news articles has evolved during this CO
   * Analyzing the keywords of articles every month using the wordcloud.
   * Performing Sentiment Analysis on texts by caculating the polarity score (NLP).
 
-### Code link 
+### Code Link: 
 *https://github.com/MSBX5420/team-mount-elbert/blob/master/Project%20Code.ipynb
 
+### Code Sample:
+``` python
+#clean columns, remove smybols
+from pyspark.sql.functions import *
+def cleanColumn(tmpdf,colName,findChar,replaceChar):
+    tmpdf = tmpdf.withColumn(colName, regexp_replace(colName, findChar, replaceChar))
+    return tmpdf
 
-## [Link to Powerpoint Presentation](https://docs.google.com/presentation/d/1M856902qevlkEjnDXwcTPwwivRSvBs7O22RpdGVNgZ4/edit#slide=id.p)
+allColNames = news_df.schema.names
+charToRemove= "[\"!@#$%^&*\(\)\{\}\[\]\'\'""',.?/:;-=+`~'...''..']"
+replaceWith =""
+for colName in allColNames:
+    news_df=cleanColumn(news_df,colName,charToRemove,replaceWith)
+
+#drop rows with NAs/ Null values
+def dropNA (tmpdf2,columnName):
+    tmpdf2 = tmpdf2.where(col(columnName).isNotNull())
+    return tmpdf2
+
+columnName = ["authors","title","publish_date","description","text","url"]
+allColNames2 = news_df.schema.names
+
+for columnName in allColNames2:
+    news_df = dropNA(news_df,columnName)
+```
+
+### Project Code Visuals:
+![Word Frequency](/images/logo.png)
+
+![Word Cloud](/images/logo.png)
+
+![Polarity Histogram](/images/logo.png)
+
+![Author Polarity Boxplot](/images/logo.png)
+
+## [Link to Presentation](https://github.com/MSBX5420/team-mount-elbert/blob/master/Design%2C%20Development%2C%20and%20Test%20document.pdf)
+![Presentation Preview](/images/logo.png)
+
 
 
