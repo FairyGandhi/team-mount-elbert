@@ -64,16 +64,13 @@ for columnName in allColNames2:
 ```
 
 ### Project Code Visuals:
-![Word Frequency](/images/logo.png)
+![Word Frequency](https://github.com/MSBX5420/team-mount-elbert/blob/master/graph%20images/word%20count.svg)
 
-![Word Cloud](/images/logo.png)
+![Word Cloud](https://github.com/MSBX5420/team-mount-elbert/blob/master/graph%20images/word%20cloud.svg)
 
-![Polarity Histogram](/images/logo.png)
+![Polarity Histogram](https://github.com/MSBX5420/team-mount-elbert/blob/master/graph%20images/polarity%20hist.svg)
 
-![Author Polarity Boxplot](/images/logo.png)
+![Author Polarity Boxplot](https://github.com/MSBX5420/team-mount-elbert/blob/master/graph%20images/polarity%20author.svg)
 
 ## [Link to Presentation](https://github.com/MSBX5420/team-mount-elbert/blob/master/Design%2C%20Development%2C%20and%20Test%20document.pdf)
-![Presentation Preview](/images/logo.png)
-
-
-
+![Presentation Preview](https://github.com/MSBX5420/team-mount-elbert/blob/master/graph%20images/canvas.png)
