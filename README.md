@@ -34,10 +34,10 @@ To understand how the main focus of CBC news articles has evolved during this CO
   * Analyzing the keywords of articles every month using the wordcloud.
   * Performing Sentiment Analysis on texts by caculating the polarity score (NLP).
 
-### [Code link] 
-(https://github.com/MSBX5420/team-mount-elbert/blob/master/Project%20Code.ipynb)
-![alt text]()
+### Code link 
+*https://github.com/MSBX5420/team-mount-elbert/blob/master/Project%20Code.ipynb
+
 
 ## [Link to Powerpoint Presentation](https://docs.google.com/presentation/d/1M856902qevlkEjnDXwcTPwwivRSvBs7O22RpdGVNgZ4/edit#slide=id.p)
-![alt text]()
+
 
