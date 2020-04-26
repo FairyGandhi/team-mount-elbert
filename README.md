@@ -1,5 +1,5 @@
 # Unstructured and Distributed Data Modeling and Analysis
-#### Spring 2020 Project | Professor Peigang (Peter) Zhang
+#### MSBX 5420 Spring 2020 | Instructor: Dr. Peigang (Peter) Zhang
 
 ## Big-Data Project: Sentiment Analysis using Pyspark on coronavirus/COVID-19 news
 
