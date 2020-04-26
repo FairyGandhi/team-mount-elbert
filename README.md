@@ -1,15 +1,17 @@
 # Unstructured and Distributed Data Modeling and Analysis
 ## Spring 2020 Project | Professor Peigang (Peter) Zhang
 
+## Big-Data Project: Sentiment Analysis using Pyspark on coronavirus/COVID-19 news
+
 ## Executive Summary:
 * For our project, we are using the Kaggle dataset on COVID-19 (as suggested by Professor Zhang). Our analysis will use Spark with Python, AWS Classroom, and Google Collab in order to examine the effects of COVID 19 in the news and how the media has covered this new pandemic.
 
 ## Contributors:
 * Junji Wiener - GitHub: 8Jun
-* Aldo Peter - GitHub: Aldospy
 * Fairy Gandhi - GitHub: FairyGandhi
 * Meredith Synnott - GitHub: meredithsynnott
 * Whitney Carter - GitHub: Carter-and
+* Aldo Peter - GitHub: Aldospy
 
 ## Objective:
 * The objective of this project is to put into action the big data technology (Hadoop, PySpark, AWS, S3) that we have learned about this semester to ingest a large data set, use basic statistics and analysis of the ingested data set, and display (using Jupyter notebook or other type of visualization) the data set. The application should also show horisontal scaling.
