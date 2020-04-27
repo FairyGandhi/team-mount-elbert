@@ -24,7 +24,7 @@
 ### Languages and Tools used:
 * Python (NumPy, Pandas, Matplotlib, Seaborn, Wordcloud)
 * Hadoop
-* PySpark
+* Apache Spark (PySpark)
 * AWS (S3, EMR)
 * Jupyter Notebook
 
