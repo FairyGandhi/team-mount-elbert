@@ -4,7 +4,7 @@
 ## Big-Data Project: Sentiment Analysis using Pyspark on coronavirus/COVID-19 news
 
 ### Executive Summary:
-* We are using the Kaggle dataset on CBC News coronavirus/COVID-19 articles. Our analysis will use Spark with Python, AWS Classroom, and Google Collab in order to examine the effects of COVID 19 in the news and how the media has covered this new pandemic.
+* We are using the Kaggle dataset on CBC News coronavirus/COVID-19 articles. Our analysis will use Spark with Python, AWS Classroom in order to examine the effects of COVID 19 in the news and how the media has covered this new pandemic.
 
 ### Contributors:
 * Junji Wiener - GitHub: 8Jun
