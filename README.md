@@ -43,13 +43,12 @@ To understand how the main focus of CBC news articles has evolved during this CO
   * Performing Sentiment Analysis on texts by caculating the polarity score (NLP).
   
 ### Design Process:
+#### [Link to the File](https://github.com/MSBX5420/team-mount-elbert/blob/master/Design%2C%20Development%2C%20and%20Test%20document.pdf)
 The process we followed for our project design
  * Started with setting up the ‘system environment.’ This involved installing the necessary tools, software packages, etc.
  * Data preparation’ mostly involved ingesting the dataset and data cleaning.
  * Once the data was cleaned, we proceeded with building our model.
  * The model then underwent a test phase.
-
-#### [Link to the File](https://github.com/MSBX5420/team-mount-elbert/blob/master/Design%2C%20Development%2C%20and%20Test%20document.pdf)
 
 
 ## [Link to Code file](https://github.com/MSBX5420/team-mount-elbert/blob/master/Project%20Code.ipynb)
