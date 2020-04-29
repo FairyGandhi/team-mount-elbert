@@ -49,7 +49,7 @@ The process we followed for our project design
 •	Once the data was cleaned, we proceeded with building our model.
 •	The model then underwent a test phase.
 
-#### Link to the File (https://github.com/MSBX5420/team-mount-elbert/blob/master/Design%2C%20Development%2C%20and%20Test%20document.pdf)
+#### [Link to the File](https://github.com/MSBX5420/team-mount-elbert/blob/master/Design%2C%20Development%2C%20and%20Test%20document.pdf)
 
 
 ## [Link to Code file](https://github.com/MSBX5420/team-mount-elbert/blob/master/Project%20Code.ipynb)
