@@ -88,5 +88,5 @@ for columnName in allColNames2:
 
 ![Author Polarity Boxplot](https://github.com/MSBX5420/team-mount-elbert/blob/master/graph%20images/polarity%20author.svg)
 
-## [Link to Presentation](https://docs.google.com/presentation/d/1eGTa4n1hRyZK8-APtACCzJIBFhgsQEtI_mX2cpkq688/edit?usp=sharing)
+## [Link to Presentation](https://github.com/MSBX5420/team-mount-elbert/blob/master/Presentation%20by%20Team%20Mount%20Albert.pptx)
 ![Presentation Preview](https://github.com/MSBX5420/team-mount-elbert/blob/master/graph%20images/canvas.png)
