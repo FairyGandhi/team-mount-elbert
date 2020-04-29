@@ -44,10 +44,10 @@ To understand how the main focus of CBC news articles has evolved during this CO
   
 ### Design Process:
 The process we followed for our project design
-•	Started with setting up the ‘system environment.’ This involved installing the necessary tools, software packages, etc.
-•	‘Data preparation’ mostly involved ingesting the dataset and data cleaning.
-•	Once the data was cleaned, we proceeded with building our model.
-•	The model then underwent a test phase.
+ * Started with setting up the ‘system environment.’ This involved installing the necessary tools, software packages, etc.
+ * Data preparation’ mostly involved ingesting the dataset and data cleaning.
+ * Once the data was cleaned, we proceeded with building our model.
+ * The model then underwent a test phase.
 
 #### [Link to the File](https://github.com/MSBX5420/team-mount-elbert/blob/master/Design%2C%20Development%2C%20and%20Test%20document.pdf)
 
