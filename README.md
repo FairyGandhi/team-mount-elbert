@@ -14,12 +14,20 @@
 * Aldo Peter - GitHub: Aldospy
 
 ### Objective:
-* The objective of this project is to put into action the big data technology (Hadoop, PySpark, AWS, S3) that we have learned about this semester to ingest a large data set, use basic statistics and analysis of the ingested data set, and display (using Jupyter notebook or other type of visualization) the data set. The application should also show horizontal scaling.
+* The objective of this project is to put into action the big data technology that we have learned about this semester which included 
+1.	Using GitHub to host the entire project.
+2.	Using Git software for version control.
+3.	Writing Spark code with Jupyter notebook locally or using MyBinder or Docker.
+4.	And To ingest a large data set and analyze it.
+
 
 ### Data Set:
 * https://www.kaggle.com/ryanxjhan/cbc-news-coronavirus-articles-march-26
+We are using the Kaggle dataset on ‘CBC News COVID-19 articles’. Our analysis used Spark with Python and AWS Classroom, to examine the effects of COVID 19 in the news.
+The Dataset contains the article authors, title, date of publishing, description or headline, text of the body, and the URL. 
 
 ### Overview:
+Our project was built on Windows 10 platform, with the code base hosted on GitHub. The dataset was stored on AWS S3 bucket. Pyspark using Jupyter notebook deployed on EMR Cluster was used to access, clean, and analyze the dataset.
 
 ### Languages and Tools used:
 * Python (NumPy, Pandas, Matplotlib, Seaborn, Wordcloud)
@@ -33,6 +41,16 @@ To understand how the main focus of CBC news articles has evolved during this CO
   * Analyzing the trend with the word count of the articles.
   * Analyzing the keywords of articles every month using the wordcloud.
   * Performing Sentiment Analysis on texts by caculating the polarity score (NLP).
+  
+### Design Process:
+The process we followed for our project design
+•	Started with setting up the ‘system environment.’ This involved installing the necessary tools, software packages, etc.
+•	‘Data preparation’ mostly involved ingesting the dataset and data cleaning.
+•	Once the data was cleaned, we proceeded with building our model.
+•	The model then underwent a test phase.
+
+#### Link to the File (https://github.com/MSBX5420/team-mount-elbert/blob/master/Design%2C%20Development%2C%20and%20Test%20document.pdf)
+
 
 ## [Link to Code file](https://github.com/MSBX5420/team-mount-elbert/blob/master/Project%20Code.ipynb)
 
